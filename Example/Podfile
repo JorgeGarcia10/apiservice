@@ -1,0 +1,6 @@
+use_frameworks!
+target 'apiservice_Tests' do
+  pod 'apiservice', :path => '../'
+  
+  
+end
