@@ -1,0 +1,22 @@
+{
+  "name": "apiservice",
+  "version": "0.1.0",
+  "summary": "A short description of apiservice.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JorgeGarcia10/apiservice",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JorgeGarcia10": "jorge.garcia@arkangroupco.com"
+  },
+  "source": {
+    "git": "https://github.com/JorgeGarcia10/apiservice.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "apiservice/Classes/**/*"
+}
