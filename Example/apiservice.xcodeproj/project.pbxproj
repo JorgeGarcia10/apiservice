@@ -20,7 +20,7 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		8AC6DE7D5EDC8B8025269DFD /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		8BCC755FBCB4AF72EBBC93B2 /* Pods-apiservice_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-apiservice_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-apiservice_Tests/Pods-apiservice_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		FB4F70A70852E890667F8075 /* apiservice.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = apiservice.podspec; path = ../apiservice.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		FB4F70A70852E890667F8075 /* apiservice1.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = apiservice1.podspec; path = ../apiservice1.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +74,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				FB4F70A70852E890667F8075 /* apiservice.podspec */,
+				FB4F70A70852E890667F8075 /* apiservice1.podspec */,
 				8AC6DE7D5EDC8B8025269DFD /* README.md */,
 				06A548B42C56DA6443E42D39 /* LICENSE */,
 			);
